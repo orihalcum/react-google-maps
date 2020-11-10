@@ -8,6 +8,10 @@
     "@testing-library/user-event": "^12.1.10",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-geocode": "^0.2.2",
+    "react-google-autocomplete": "^1.2.6",
+    "react-google-maps": "^9.4.5",
+    "react-hook-google-maps": "0.0.3",
     "react-scripts": "4.0.0",
     "web-vitals": "^0.2.4"
   },
