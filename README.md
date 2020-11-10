@@ -3,6 +3,7 @@
 Google Maps feature :
 - Custom Marker
 - Draggable Marker
+- InfoWindow
 - Geocode
 
 ### Init
