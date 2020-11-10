@@ -5,8 +5,8 @@ Google Maps feature :
 - Draggable Marker
 - Geocode
 
-## Init
+### Init
 ```npm install``` or ```yarn```
 
-## Run
+### Run
 ```npm start``` or ```yarn start```
